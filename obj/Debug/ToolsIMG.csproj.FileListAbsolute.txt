@@ -1,0 +1,10 @@
+D:\ToolProject\ToolsIMG\bin\Debug\ToolsIMG.exe.config
+D:\ToolProject\ToolsIMG\bin\Debug\ToolsIMG.exe
+D:\ToolProject\ToolsIMG\bin\Debug\ToolsIMG.pdb
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.csproj.AssemblyReference.cache
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.Form1.resources
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.Properties.Resources.resources
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.csproj.GenerateResource.cache
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.csproj.CoreCompileInputs.cache
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.exe
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.pdb
