@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsIMG", "ToolsIMG.csproj", "{F06AE544-DC75-4647-ABDD-2F05212900CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06AE544-DC75-4647-ABDD-2F05212900CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06AE544-DC75-4647-ABDD-2F05212900CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06AE544-DC75-4647-ABDD-2F05212900CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06AE544-DC75-4647-ABDD-2F05212900CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55956C89-3480-417A-98EB-04B5DFA8C9C3}
+	EndGlobalSection
+EndGlobal
