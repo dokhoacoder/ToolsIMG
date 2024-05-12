@@ -1,0 +1,34 @@
+D:\ToolProject\ToolsIMG\bin\Debug\ToolsIMG.exe.config
+D:\ToolProject\ToolsIMG\bin\Debug\ToolsIMG.exe
+D:\ToolProject\ToolsIMG\bin\Debug\ToolsIMG.pdb
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.csproj.AssemblyReference.cache
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.Form1.resources
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.Properties.Resources.resources
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.csproj.GenerateResource.cache
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.csproj.CoreCompileInputs.cache
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.exe
+D:\ToolProject\ToolsIMG\obj\Debug\ToolsIMG.pdb
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\bin\Debug\ToolsIMG.exe.config
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\bin\Debug\ToolsIMG.exe
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\bin\Debug\ToolsIMG.pdb
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\obj\Debug\ToolsIMG.csproj.AssemblyReference.cache
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\obj\Debug\ToolsIMG.Form1.resources
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\obj\Debug\ToolsIMG.Properties.Resources.resources
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\obj\Debug\ToolsIMG.csproj.GenerateResource.cache
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\obj\Debug\ToolsIMG.csproj.CoreCompileInputs.cache
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\obj\Debug\ToolsIMG.exe
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-main\obj\Debug\ToolsIMG.pdb
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\bin\Debug\ToolsIMG.exe.config
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\bin\Debug\ToolsIMG.exe
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\bin\Debug\ToolsIMG.pdb
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.csproj.AssemblyReference.cache
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.Form1.resources
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.Properties.Resources.resources
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.csproj.GenerateResource.cache
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.csproj.CoreCompileInputs.cache
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.exe
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.pdb
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\bin\Debug\Newtonsoft.Json.dll
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\bin\Debug\Newtonsoft.Json.xml
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.csproj.Up2Date
+C:\Users\doanh\OneDrive\Máy tính\ToolsIMG-08052024\obj\Debug\ToolsIMG.MyDialogFormCustom.resources
